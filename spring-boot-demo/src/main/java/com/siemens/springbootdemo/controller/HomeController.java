@@ -21,6 +21,6 @@ public class HomeController {
 
     @RequestMapping("/admin")
     public String admin() {
-        return "only admin cas see";
+        return "only admin can see";
     }
 }

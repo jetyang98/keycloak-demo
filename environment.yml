@@ -1,0 +1,4 @@
+name: keycloak-demo
+dependencies:
+  - python=3.7
+  - django
