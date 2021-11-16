@@ -8,3 +8,18 @@
 
 **注意：**每次启动 keycloak 时会比较慢。
 
+## vue-demo
+
+前端项目。
+
+**功能：**登录，获取 token。
+
+## spring-boot-demo
+
+后端项目。
+
+**功能：**根据 token 验证权限。
+
+## django_demo
+
+后端项目，自己实现验证 token 的函数。
