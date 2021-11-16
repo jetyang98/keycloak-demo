@@ -3,4 +3,4 @@ dependencies:
   - python=3.7
   - django
   - django-cors-headers
-  - pyjwt
+  - pyjwt[crypto]
